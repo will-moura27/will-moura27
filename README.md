@@ -117,11 +117,18 @@
  ### 📊 Estatísticas
  
  
- 
+ <p>
+   <img 
+     align="left" 
+     alt="GitHub Stats" 
+     height="199" 
+     style="padding-right: 5px;" 
+     src="https://github-readme-stats.vercel.app/api?username=will-moura27&show_icons=true&theme=transparent" 
+   />
  <img 
        align="left" 
        alt="GitHub Stats" 
-       height="200" 
+       height="180" 
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=will-moura27&layout=compact" 
    />
  
