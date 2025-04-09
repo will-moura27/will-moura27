@@ -6,12 +6,9 @@
  Me chamo William Moura, tenho 30 anos e resido em São Paulo. estou cursando ensino superior na UNINTER, no curso tecnólogo em analise e desenvolvimento de sistemas. Sou apaixonado por tecnologia e espero que este portfólio me ajude a entrar para esse mercado de trabalho.
  
 <p align="left">
-    <a href="mailto:seuemail@exemplo.com">
-        <img alt="email" 
-          title="Entre em contato" 
-          src="https://custom-icon-badges.demolab.com/badge/Mail-E61B23.svg?logo=mail"
-          />
-    </a>
+    <a href = "mailto:william.dd15@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/william-dogllas-dantas-moura-257151270/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   <a href="https://www.instagram.com/will_ddm/#" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"   target="_blank"></a>
     <a href="https://github.com/will-moura27?tab=repositories&sort=stargazers">
         <img alt="Total de estrelas" title="Total de estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/will-moura27?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"/>
     </a>
@@ -129,7 +126,7 @@
        align="left" 
        alt="GitHub Stats" 
        height="180" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=will-moura27&layout=compact" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=will-moura27&hide_progress=true" 
    />
  
  </p>
